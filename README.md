@@ -1,3 +1,3 @@
 # Internship
 
-Projects Done during Internship at Azure Solutions!
+Projects Done during Internship at Azure Skynet Solutions!
